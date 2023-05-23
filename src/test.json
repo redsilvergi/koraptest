@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "name": "nationalroad",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "LINK_ID": 477354901,
+        "UP_FROM_NO": 107685,
+        "UP_TO_NODE": 107687,
+        "DOWN_FROM_": 0,
+        "DOWN_TO_NO": 0,
+        "NAVI_LV": 4,
+        "KOTI_LV": 6,
+        "LENGTH": 0.05,
+        "ST_DIR": 90,
+        "ED_DIR": 0,
+        "ROAD_RANK": 103,
+        "LINK_CATE": 4,
+        "ONEWAY": 1,
+        "WIDTH": 1,
+        "LANES": 1,
+        "UP_LANES": 1,
+        "DOWN_LANES": 0,
+        "ROAD_NAME": "송림로",
+        "FIRST_DO": 31,
+        "FIRST_GU": 31240,
+        "TG_NAME": null,
+        "ROAD_FAC_N": null,
+        "ROAD_NO": "77",
+        "HOV_LANE": "0",
+        "SHOV_LANE": "0",
+        "AUTO_EXCLU": "0",
+        "NUM_CROSS": 0,
+        "BARRIER": 0,
+        "MAX_SPD": "0",
+        "FACIL_KIND": "0",
+        "TL_DENSITY": 0.0,
+        "TRAF_ID_P": 0.0,
+        "TRAF_ID_N": 0.0
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [126.828663520040109, 37.228463899626149],
+            [126.828653659732396, 37.227999162851511]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LINK_ID": 477354902,
+        "UP_FROM_NO": 196693,
+        "UP_TO_NODE": 107685,
+        "DOWN_FROM_": 107685,
+        "DOWN_TO_NO": 196693,
+        "NAVI_LV": 4,
+        "KOTI_LV": 5,
+        "LENGTH": 0.03,
+        "ST_DIR": 163,
+        "ED_DIR": 72,
+        "ROAD_RANK": 103,
+        "LINK_CATE": 4,
+        "ONEWAY": 0,
+        "WIDTH": 3,
+        "LANES": 4,
+        "UP_LANES": 2,
+        "DOWN_LANES": 2,
+        "ROAD_NAME": "남양로",
+        "FIRST_DO": 31,
+        "FIRST_GU": 31240,
+        "TG_NAME": null,
+        "ROAD_FAC_N": null,
+        "ROAD_NO": "77",
+        "HOV_LANE": "0",
+        "SHOV_LANE": "0",
+        "AUTO_EXCLU": "0",
+        "NUM_CROSS": 0,
+        "BARRIER": 5,
+        "MAX_SPD": "80",
+        "FACIL_KIND": "0",
+        "TL_DENSITY": 1.02,
+        "TRAF_ID_P": 2330000000.0,
+        "TRAF_ID_N": 2330000000.0
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [126.828868811361076, 37.228217423914792],
+            [126.828749448134857, 37.228364588265379],
+            [126.828663520040109, 37.228463899626149]
+          ]
+        ]
+      }
+    }
+  ]
+}

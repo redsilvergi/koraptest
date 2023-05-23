@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+.container {
+  position: relative;
+  height: 100vh;
+}
+
+.toggle-button {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1;
+  padding: 10px;
+  background-color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+
+.toggle-button:hover {
+  background-color: red;
+  opacity: 0.5;
+}
