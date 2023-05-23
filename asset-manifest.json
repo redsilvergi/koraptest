@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/koraptest/static/css/main.38fe32f7.css",
+    "main.js": "/koraptest/static/js/main.8741219f.js",
+    "static/js/483.929157a5.chunk.js": "/koraptest/static/js/483.929157a5.chunk.js",
+    "index.html": "/koraptest/index.html",
+    "main.38fe32f7.css.map": "/koraptest/static/css/main.38fe32f7.css.map",
+    "main.8741219f.js.map": "/koraptest/static/js/main.8741219f.js.map",
+    "483.929157a5.chunk.js.map": "/koraptest/static/js/483.929157a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38fe32f7.css",
+    "static/js/main.8741219f.js"
+  ]
+}
